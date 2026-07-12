@@ -19,6 +19,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/newmarket-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/newmarket-corporation
   - type: Website
@@ -27,6 +29,8 @@ common:
     url: https://www.newmarket.com/about
   - type: Investor Relations
     url: https://www.newmarket.com/investors
+  - url: https://www.newmarket.com/news/feed/
+    type: Blog
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
