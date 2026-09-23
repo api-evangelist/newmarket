@@ -1,7 +1,9 @@
 ---
 title: NewMarket Corporation Announces Quarterly Dividend
 url: https://www.newmarket.com/news/2026/02/newmarket-corporation-announces-quarterly-dividend-3/
-date: '2026-02-27'
+published: ''
+date_basis: harvested
+harvested: '2026-02-27'
 author: lewisk
 feed_url: http://www.newmarket.com/news/feed
 ---

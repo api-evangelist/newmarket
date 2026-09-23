@@ -1,7 +1,9 @@
 ---
 title: NewMarket Corporation Reports Fourth Quarter and Full Year 2025 Results
 url: https://www.newmarket.com/news/2026/02/newmarket-corporation-reports-fourth-quarter-and-full-year-2025-results/
-date: '2026-02-12'
+published: ''
+date_basis: harvested
+harvested: '2026-02-12'
 author: lewisk
 feed_url: http://www.newmarket.com/news/feed
 ---

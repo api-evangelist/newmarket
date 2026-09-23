@@ -1,7 +1,9 @@
 ---
 title: Newmarket was embracing 'AI' well before it becoming ...
 url: https://www.facebook.com/groups/312928843543136/posts/1243602397142438/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NewMarket" press release artificial intelligence'
 position: 4
 source: serpapi-google

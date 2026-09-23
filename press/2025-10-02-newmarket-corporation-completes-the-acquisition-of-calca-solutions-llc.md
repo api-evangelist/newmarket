@@ -1,7 +1,9 @@
 ---
 title: NewMarket Corporation Completes the Acquisition of Calca Solutions, LLC
 url: https://www.newmarket.com/news/2025/10/newmarket-corporation-completes-the-acquisition-of-calca-solutions-llc/
-date: '2025-10-02'
+published: ''
+date_basis: harvested
+harvested: '2025-10-02'
 author: lewisk
 feed_url: http://www.newmarket.com/news/feed
 ---

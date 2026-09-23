@@ -1,7 +1,9 @@
 ---
 title: NewMarket Corporation Increases Quarterly Dividend
 url: https://www.newmarket.com/news/2025/10/newmarket-corporation-increases-quarterly-dividend-4/
-date: '2025-10-31'
+published: ''
+date_basis: harvested
+harvested: '2025-10-31'
 author: lewisk
 feed_url: http://www.newmarket.com/news/feed
 ---

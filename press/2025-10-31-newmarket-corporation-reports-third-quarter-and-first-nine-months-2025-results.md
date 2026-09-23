@@ -1,7 +1,9 @@
 ---
 title: NewMarket Corporation Reports Third Quarter and First Nine Months 2025 Results
 url: https://www.newmarket.com/news/2025/10/newmarket-corporation-reports-third-quarter-and-first-nine-months-2025-results/
-date: '2025-10-31'
+published: ''
+date_basis: harvested
+harvested: '2025-10-31'
 author: lewisk
 feed_url: http://www.newmarket.com/news/feed
 ---

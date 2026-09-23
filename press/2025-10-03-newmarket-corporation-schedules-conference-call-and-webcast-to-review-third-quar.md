@@ -2,7 +2,9 @@
 title: NewMarket Corporation Schedules Conference Call and Webcast to Review Third
   Quarter 2025 Financial Results
 url: https://www.newmarket.com/news/2025/10/newmarket-corporation-schedules-conference-call-and-webcast-to-review-third-quarter-2025-financial-results/
-date: '2025-10-03'
+published: ''
+date_basis: harvested
+harvested: '2025-10-03'
 author: lewisk
 feed_url: http://www.newmarket.com/news/feed
 ---

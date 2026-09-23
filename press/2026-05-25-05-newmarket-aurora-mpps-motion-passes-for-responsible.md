@@ -1,7 +1,9 @@
 ---
 title: Newmarket-Aurora MPP's motion passes for 'responsible ...
 url: https://www.newmarkettoday.ca/local-news/newmarket-aurora-mpps-motion-passes-for-responsible-use-of-ai-8758380
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NewMarket" press release artificial intelligence'
 position: 5
 source: serpapi-google

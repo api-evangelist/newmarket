@@ -1,7 +1,9 @@
 ---
 title: NewMarket signals ongoing strength in petroleum ...
 url: https://seekingalpha.com/news/4551472-newmarket-signals-ongoing-strength-in-petroleum-additives-and-specialty-materials-amid-market
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NewMarket" press release artificial intelligence'
 position: 1
 source: serpapi-google
