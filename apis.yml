@@ -1,5 +1,5 @@
 aid: newmarket
-name: NewMarket Corporation
+name: NewMarket
 description: >-
   NewMarket Corporation (NYSE: NEU) is a publicly traded specialty chemicals holding
   company headquartered in Richmond, Virginia. Through subsidiaries Afton Chemical
@@ -56,3 +56,4 @@ common:
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
+x-legal-name: NewMarket Corporation
